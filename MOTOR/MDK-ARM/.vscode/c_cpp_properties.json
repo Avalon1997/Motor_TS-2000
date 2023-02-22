@@ -3,16 +3,16 @@
         {
             "name": "MOTOR",
             "includePath": [
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Core\\Inc",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Drivers\\CMSIS\\Include",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Core\\Inc",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Drivers\\CMSIS\\Include",
                 "D:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include",
                 "D:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\MDK-ARM",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Core\\Src",
-                "e:\\Repository\\Tsimen\\STM32F103C8T6_CUBEMX_Program\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\MDK-ARM",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Core\\Src",
+                "e:\\Repository\\TS-2000_Code\\Motor_TS-2000\\MOTOR\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

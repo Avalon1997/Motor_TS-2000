@@ -8,14 +8,14 @@ motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 motor\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 motor\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 motor\tim.o: ../Drivers/CMSIS/Include/core_cm3.h
-motor\tim.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motor\tim.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 motor\tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
 motor\tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 motor\tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 motor\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-motor\tim.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+motor\tim.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 motor\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
